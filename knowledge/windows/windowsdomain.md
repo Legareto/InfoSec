@@ -6,7 +6,7 @@ The main idea behind a domain is to centralise the administration of common comp
 
 The server that runs the Active Directory services is known as a [Domain Controller (DC)](/knowledge/windows/domaincontroller.md).
 
-![Domain controlller](/knowledge/assets/domaincontroller.pngdomaincontroller.png)
+![Domain controller](/knowledge/assets/domaincontroller.png)
 
 The main advantages of having a configured Windows domain are:
 
