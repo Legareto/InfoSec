@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77d2d6eb2f0c6bfe",
+        "id": "f7c95c273efa0ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "aa7478c2dfbb1ff5",
+            "id": "9869fdbacc23c952",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa7478c2dfbb1ff5",
+  "active": "9869fdbacc23c952",
   "lastOpenFiles": [
+    "README.md",
     "learning/htb/Hack The Box (HTB).md",
     "tools/Parrot Security.md",
     "learning/sec+/Logic bomb.md",
@@ -198,7 +199,6 @@
     "learning/sec+/assets/ransomware.png",
     "learning/sec+/Trojan.md",
     "learning/sec+/Insider Threat.md",
-    "README.md",
     "learning/sec+/assets/assets",
     "learning/sec+/assets/Course_Notes.pdf",
     "learning/sec+/assets/Security+_Last_Minute_Cram_Guide.pdf",
