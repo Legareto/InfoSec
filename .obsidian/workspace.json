@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "8cfca3a5869bf5e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b31ee0e976eb519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf0e8f71211b72d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f805999aecf665bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a67f0dd509a68762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6277a3b642e0752e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab40d0361aaaf196",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b69cae353754acd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5
+  },
+  "right": {
+    "id": "f02c825e4325257b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f9f9de25f609db1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a59f2707ee5aa27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4bc869505690b185",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "c90a676e85c461b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "697c8e45dbefdfc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "77d24db5bb1bea24",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf0e8f71211b72d7",
+  "lastOpenFiles": [
+    "learning/sec+/Malware.md",
+    "learning/sec+/Ransomware.md",
+    "learning/sec+/Worms.md",
+    "learning/sec+/Viruses.md",
+    "learning/sec+/Keylogger.md",
+    "learning/sec+/assets/assets/Malware.md",
+    "learning/sec+/assets/ransomware.png",
+    "learning/sec+/Trojan.md",
+    "learning/sec+/Rootkit.md",
+    "learning/sec+/Logic bomb.md",
+    "learning/sec+/Insider Threat.md",
+    "knowledge/windows/netstat.md",
+    "tools/nmap.md",
+    "README.md",
+    "Welcome.md",
+    "malicious software (malware).md",
+    "learning/sec+/Spyware.md",
+    "learning/sec+ 1.md",
+    "learning/sec+.md",
+    "knowledge/windows/windowsdomain.md",
+    "knowledge/windows/activedirectory.md",
+    "knowledge/windows/domaincontroller.md",
+    "learning/sec+/assets/assets",
+    "learning/sec+/assets/Course_Notes.pdf",
+    "learning/sec+/Sec+.md",
+    "learning/offsec/OffSec.md",
+    "learning/htb/Hack The Box.md",
+    "attack/Attack.md",
+    "learning/sec+/assets/Security+_Last_Minute_Cram_Guide.pdf",
+    "learning/sec+/assets/30_Day_study_Plan.pdf",
+    "Untitled.canvas",
+    "Untitled"
+  ]
+}
