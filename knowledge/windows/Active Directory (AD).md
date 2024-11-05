@@ -1,3 +1,6 @@
+---
+title: Active Directory (AD)
+---
 # Microsoft Active Directory (AD)
 
 Microsoft's Active Directory is the backbone of the corporate world.
@@ -55,6 +58,7 @@ Groups can have both users and machines as members. If needed, groups can includ
 | Domain Users       | Includes all existing user accounts in the domain.                                                                                                        |
 | Domain Computers   | Includes all existing computers in the domain.                                                                                                            |
 | Domain Controllers | Includes all existing DCs on the domain.                                                                                                                  |
+
 
 ## Configure Users and Computers
 

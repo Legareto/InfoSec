@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f7c95c273efa0ec8",
+        "id": "b2b4e9e5c1f18782",
         "type": "tabs",
         "children": [
           {
-            "id": "9869fdbacc23c952",
+            "id": "140b4b703c83f7bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "attack/Attack.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Attack"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "attack/Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Attack"
             }
           },
           {
@@ -170,35 +175,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9869fdbacc23c952",
+  "active": "140b4b703c83f7bd",
   "lastOpenFiles": [
+    "knowledge/windows/Netstat.md",
+    "knowledge/windows/Domain Controller (DC).md",
+    "knowledge/windows/Active Directory (AD).md",
+    "knowledge/windows/Windows Domain.md",
+    "templates/Pentest.md",
+    "tools/VirusTotal.md",
+    "tools/Shodan.md",
+    "tools/Nmap.md",
+    "tools/HIBP.md",
+    "tools/Exploitdb.md",
+    "learning/thm/Try Hack Me (THM).md",
     "README.md",
     "learning/htb/Hack The Box (HTB).md",
     "tools/Parrot Security.md",
     "learning/sec+/Logic bomb.md",
     "learning/sec+/Malware.md",
     "Logic.md",
-    "templates/pentest.md",
-    "tools/nmap.md",
     "learning/sec+/Viruses.md",
     "knowledge/MITRE.md",
     "defend/Defend.md",
-    "knowledge/windows/netstat.md",
     "learning/sec+/Ransomware.md",
-    "tools/hibp.md",
     "learning/htb/Hack.md",
     "Hack.md",
     "learning/htb.md",
     "learning/htb/Hack The Box.md",
     "learning/sec+/Rootkit.md",
-    "tools/Censys.md",
-    "knowledge/windows/domaincontroller.md",
-    "learning/sec+/Worms.md",
-    "learning/sec+/Keylogger.md",
-    "learning/sec+/assets/assets/Malware.md",
     "learning/sec+/assets/ransomware.png",
-    "learning/sec+/Trojan.md",
-    "learning/sec+/Insider Threat.md",
     "learning/sec+/assets/assets",
     "learning/sec+/assets/Course_Notes.pdf",
     "learning/sec+/assets/Security+_Last_Minute_Cram_Guide.pdf",

@@ -1,3 +1,6 @@
+---
+title: HIBP
+---
 # Have I Been Pwned (HIBP)
 
 Have I Been Pwned (HIBP) does one thing; **it tells you if an email address has appeared in a leaked data breach**.
