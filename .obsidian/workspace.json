@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "311d551813f24e72",
+        "id": "d14d633d05e07d93",
         "type": "tabs",
         "children": [
           {
-            "id": "418e06eb8734db84",
+            "id": "2771ecf351a728de",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6277a3b642e0752e",
+  "active": "2771ecf351a728de",
   "lastOpenFiles": [
+    "attack/Penetration Testing Distributions.md",
+    "attack/Attack.md",
+    "attack/Outside the Box Thinking.md",
+    "attack/Penetration Testing Process.md",
+    "attack/Setting Up.md",
     "knowledge/linux/Linux.md",
     "knowledge/Containers.md",
     "knowledge/Virtualization.md",
@@ -176,10 +181,6 @@
     "knowledge/MITRE.md",
     "knowledge/assets/containers-vs-virtual-machines.jpg",
     "knowledge/assets/containers-vs-virtual-machines.jpg.crdownload",
-    "attack/Setting Up.md",
-    "attack/Outside the Box Thinking.md",
-    "attack/Attack.md",
-    "attack/Penetration Testing Process.md",
     "tools/Pwndoc.md",
     "knowledge/assets/roq-model.png",
     "knowledge/assets/bad-pyramid.png",
@@ -199,7 +200,6 @@
     "README.md",
     "tools/Parrot Security.md",
     "learning/sec+/Logic bomb.md",
-    "learning/sec+/Malware.md",
     "learning/sec+/assets/ransomware.png",
     "learning/sec+/assets/assets",
     "learning/sec+/assets/Course_Notes.pdf",
