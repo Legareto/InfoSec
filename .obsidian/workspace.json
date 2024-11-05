@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7422b4aaebc31de4",
+        "id": "24d559538a186ab1",
         "type": "tabs",
         "children": [
           {
-            "id": "585a198fff4ec39e",
+            "id": "69622e164e368a26",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,16 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "585a198fff4ec39e",
+  "active": "69622e164e368a26",
   "lastOpenFiles": [
+    "knowledge/Virtualization.md",
+    "attack/Setting Up.md",
     "attack/Outside the Box Thinking.md",
-    "attack/Untitled.md",
     "attack/Attack.md",
+    "attack/Penetration Testing Process.md",
+    "tools/Pwndoc.md",
     "knowledge/assets/roq-model.png",
     "knowledge/Bad Pyramid.md",
     "knowledge/assets/bad-pyramid.png",
     "knowledge/assets/comfort-zone.png",
-    "attack/Penetration Testing Process.md",
     "learning/htb/Hack The Box (HTB).md",
     "knowledge/windows/Netstat.md",
     "knowledge/windows/Domain Controller (DC).md",
@@ -196,8 +198,6 @@
     "Logic.md",
     "learning/sec+/Viruses.md",
     "knowledge/MITRE.md",
-    "defend/Defend.md",
-    "learning/sec+/Ransomware.md",
     "learning/sec+/assets/ransomware.png",
     "learning/sec+/assets/assets",
     "learning/sec+/assets/Course_Notes.pdf",
