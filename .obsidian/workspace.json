@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4b31ee0e976eb519",
+        "id": "b63c236f37136793",
         "type": "tabs",
         "children": [
           {
-            "id": "bf0e8f71211b72d7",
+            "id": "6409522d6d73adf1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "New tab"
             }
           }
         ]
@@ -45,6 +43,16 @@
             }
           },
           {
+            "id": "b69cae353754acd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
             "id": "ab40d0361aaaf196",
             "type": "leaf",
             "state": {
@@ -59,16 +67,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "b69cae353754acd8",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -172,8 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf0e8f71211b72d7",
+  "active": "6409522d6d73adf1",
   "lastOpenFiles": [
+    "learning/htb/Hack The Box.md",
+    "knowledge/windows/domaincontroller.md",
     "learning/sec+/Malware.md",
     "learning/sec+/Ransomware.md",
     "learning/sec+/Worms.md",
@@ -195,12 +195,10 @@
     "learning/sec+.md",
     "knowledge/windows/windowsdomain.md",
     "knowledge/windows/activedirectory.md",
-    "knowledge/windows/domaincontroller.md",
     "learning/sec+/assets/assets",
     "learning/sec+/assets/Course_Notes.pdf",
     "learning/sec+/Sec+.md",
     "learning/offsec/OffSec.md",
-    "learning/htb/Hack The Box.md",
     "attack/Attack.md",
     "learning/sec+/assets/Security+_Last_Minute_Cram_Guide.pdf",
     "learning/sec+/assets/30_Day_study_Plan.pdf",
