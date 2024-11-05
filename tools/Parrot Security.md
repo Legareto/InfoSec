@@ -7,7 +7,7 @@ Parrot Security provides a huge arsenal of tools, utilities and libraries that I
 
 Parrot is available in three main editions, Security, Home and Architect Edition, even as Virtual Machine (Virtual Box, Parallels and VMware), on Raspberry Pi and also on Docker.
 
-It's the OS most prefered on [Hack The Box](/learning/htb/Hack The Box (HTB).md).
+It's the OS most prefered on [Hack The Box](/learning/htb/Hack%20The%20Box%20(HTB).md).
 
 Website : https://parrotsec.org/
 Documentation : https://parrotsec.org/docs/
