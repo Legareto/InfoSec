@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b63c236f37136793",
+        "id": "9df13be964780509",
         "type": "tabs",
         "children": [
           {
-            "id": "6409522d6d73adf1",
+            "id": "01811cfa5f3ba53e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "learning/htb/Hack The Box (HTB).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hack The Box (HTB)"
             }
           }
         ]
@@ -58,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning/htb/Hack The Box (HTB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Hack The Box (HTB)"
             }
           },
           {
@@ -170,36 +175,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6409522d6d73adf1",
+  "active": "01811cfa5f3ba53e",
   "lastOpenFiles": [
-    "learning/htb/Hack The Box.md",
-    "knowledge/windows/domaincontroller.md",
-    "learning/sec+/Malware.md",
-    "learning/sec+/Ransomware.md",
-    "learning/sec+/Worms.md",
+    "templates/pentest.md",
+    "tools/nmap.md",
     "learning/sec+/Viruses.md",
+    "knowledge/MITRE.md",
+    "defend/Defend.md",
+    "knowledge/windows/netstat.md",
+    "learning/sec+/Logic bomb.md",
+    "learning/sec+/Ransomware.md",
+    "tools/hibp.md",
+    "learning/htb/Hack The Box (HTB).md",
+    "tools/Parrot Security.md",
+    "learning/htb/Hack.md",
+    "Hack.md",
+    "learning/sec+/Malware.md",
+    "learning/htb.md",
+    "learning/htb/Hack The Box.md",
+    "learning/sec+/Rootkit.md",
+    "tools/Censys.md",
+    "knowledge/windows/domaincontroller.md",
+    "learning/sec+/Worms.md",
     "learning/sec+/Keylogger.md",
     "learning/sec+/assets/assets/Malware.md",
     "learning/sec+/assets/ransomware.png",
     "learning/sec+/Trojan.md",
-    "learning/sec+/Rootkit.md",
-    "learning/sec+/Logic bomb.md",
     "learning/sec+/Insider Threat.md",
-    "knowledge/windows/netstat.md",
-    "tools/nmap.md",
     "README.md",
     "Welcome.md",
-    "malicious software (malware).md",
-    "learning/sec+/Spyware.md",
-    "learning/sec+ 1.md",
-    "learning/sec+.md",
-    "knowledge/windows/windowsdomain.md",
-    "knowledge/windows/activedirectory.md",
     "learning/sec+/assets/assets",
     "learning/sec+/assets/Course_Notes.pdf",
-    "learning/sec+/Sec+.md",
-    "learning/offsec/OffSec.md",
-    "attack/Attack.md",
     "learning/sec+/assets/Security+_Last_Minute_Cram_Guide.pdf",
     "learning/sec+/assets/30_Day_study_Plan.pdf",
     "Untitled.canvas",
