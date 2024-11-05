@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2b4e9e5c1f18782",
+        "id": "7422b4aaebc31de4",
         "type": "tabs",
         "children": [
           {
-            "id": "140b4b703c83f7bd",
+            "id": "585a198fff4ec39e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "attack/Attack.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Attack"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attack/Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Attack"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +107,21 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "697c8e45dbefdfc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -131,18 +135,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "697c8e45dbefdfc9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Welcome"
             }
           },
           {
@@ -163,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "140b4b703c83f7bd",
+  "active": "585a198fff4ec39e",
   "lastOpenFiles": [
+    "attack/Outside the Box Thinking.md",
+    "attack/Untitled.md",
+    "attack/Attack.md",
+    "knowledge/assets/roq-model.png",
+    "knowledge/Bad Pyramid.md",
+    "knowledge/assets/bad-pyramid.png",
+    "knowledge/assets/comfort-zone.png",
+    "attack/Penetration Testing Process.md",
+    "learning/htb/Hack The Box (HTB).md",
     "knowledge/windows/Netstat.md",
     "knowledge/windows/Domain Controller (DC).md",
     "knowledge/windows/Active Directory (AD).md",
@@ -189,7 +190,6 @@
     "tools/Exploitdb.md",
     "learning/thm/Try Hack Me (THM).md",
     "README.md",
-    "learning/htb/Hack The Box (HTB).md",
     "tools/Parrot Security.md",
     "learning/sec+/Logic bomb.md",
     "learning/sec+/Malware.md",
@@ -198,11 +198,6 @@
     "knowledge/MITRE.md",
     "defend/Defend.md",
     "learning/sec+/Ransomware.md",
-    "learning/htb/Hack.md",
-    "Hack.md",
-    "learning/htb.md",
-    "learning/htb/Hack The Box.md",
-    "learning/sec+/Rootkit.md",
     "learning/sec+/assets/ransomware.png",
     "learning/sec+/assets/assets",
     "learning/sec+/assets/Course_Notes.pdf",
