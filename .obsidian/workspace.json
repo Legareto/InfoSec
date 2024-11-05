@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24d559538a186ab1",
+        "id": "311d551813f24e72",
         "type": "tabs",
         "children": [
           {
-            "id": "69622e164e368a26",
+            "id": "418e06eb8734db84",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Linux",
+                "query": "tag:#OS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,16 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69622e164e368a26",
+  "active": "6277a3b642e0752e",
   "lastOpenFiles": [
+    "knowledge/linux/Linux.md",
+    "knowledge/Containers.md",
     "knowledge/Virtualization.md",
+    "knowledge/Bad Pyramid.md",
+    "knowledge/MITRE.md",
+    "knowledge/assets/containers-vs-virtual-machines.jpg",
+    "knowledge/assets/containers-vs-virtual-machines.jpg.crdownload",
     "attack/Setting Up.md",
     "attack/Outside the Box Thinking.md",
     "attack/Attack.md",
     "attack/Penetration Testing Process.md",
     "tools/Pwndoc.md",
     "knowledge/assets/roq-model.png",
-    "knowledge/Bad Pyramid.md",
     "knowledge/assets/bad-pyramid.png",
     "knowledge/assets/comfort-zone.png",
     "learning/htb/Hack The Box (HTB).md",
@@ -195,9 +200,6 @@
     "tools/Parrot Security.md",
     "learning/sec+/Logic bomb.md",
     "learning/sec+/Malware.md",
-    "Logic.md",
-    "learning/sec+/Viruses.md",
-    "knowledge/MITRE.md",
     "learning/sec+/assets/ransomware.png",
     "learning/sec+/assets/assets",
     "learning/sec+/assets/Course_Notes.pdf",
