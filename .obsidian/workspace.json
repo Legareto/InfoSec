@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Censys.md",
+                "file": "tools/Shodan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Censys"
+              "title": "Shodan"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Censys.md",
+                "file": "tools/Shodan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Censys"
+              "title": "Backlinks for Shodan"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Censys.md",
+                "file": "tools/Shodan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Censys"
+              "title": "Outgoing links from Shodan"
             }
           },
           {
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Censys.md"
+                "file": "tools/Shodan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Censys"
+              "title": "Outline of Shodan"
             }
           },
           {
@@ -177,20 +177,21 @@
   },
   "active": "2771ecf351a728de",
   "lastOpenFiles": [
-    "tools/Pwndoc.md",
-    "tools/Shodan.md",
     "tools/VirusTotal.md",
+    "tools/Shodan.md",
+    "tools/Pwndoc.md",
     "tools/Parrot Security.md",
     "tools/Nmap.md",
     "tools/HIBP.md",
     "tools/Exploitdb.md",
     "tools/Common Vulnerabilities and Exposures (CVE).md",
     "tools/Censys.md",
+    "attack/Outside the Box Thinking.md",
+    "attack/Setting Up.md",
+    "attack/Penetration Testing Process.md",
     "attack/Penetration Testing Distributions.md",
     "attack/Attack.md",
-    "attack/Outside the Box Thinking.md",
-    "attack/Penetration Testing Process.md",
-    "attack/Setting Up.md",
+    "build/Build.md",
     "knowledge/linux/Linux.md",
     "knowledge/Containers.md",
     "knowledge/Virtualization.md",
@@ -207,7 +208,6 @@
     "knowledge/windows/Active Directory (AD).md",
     "knowledge/windows/Windows Domain.md",
     "templates/Pentest.md",
-    "learning/thm/Try Hack Me (THM).md",
     "learning/sec+/assets/ransomware.png",
     "learning/sec+/assets/assets",
     "learning/sec+/assets/Course_Notes.pdf",
