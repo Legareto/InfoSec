@@ -1,5 +1,6 @@
-# Censys
-
+---
+title: Censys
+---
 Censys is a search engine that focuses on Internet-connected hosts, websites, certificates, and other Internet assets.
 
 Some of its use cases include :
